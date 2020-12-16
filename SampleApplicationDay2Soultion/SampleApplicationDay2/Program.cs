@@ -11,6 +11,7 @@ namespace SampleApplicationDay2
             Console.WriteLine("new line");
 
             Console.WriteLine("hello vaish");
+            Console.WriteLine("second line");
             Console.ReadKey();
         }
     }
