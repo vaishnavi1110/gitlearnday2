@@ -9,6 +9,8 @@ namespace SampleApplicationDay2
             Console.WriteLine("Hello World!");
 
             Console.WriteLine("new line");
+
+            Console.WriteLine("hello vaish");
             Console.ReadKey();
         }
     }
