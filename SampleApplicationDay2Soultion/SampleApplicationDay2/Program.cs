@@ -9,6 +9,7 @@ namespace SampleApplicationDay2
             Console.WriteLine("Hello World!");
 
             Console.WriteLine("new line");
+            Console.WriteLine("second line");
             Console.ReadKey();
         }
     }
